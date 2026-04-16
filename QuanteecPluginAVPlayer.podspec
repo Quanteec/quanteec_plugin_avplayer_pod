@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |spec|
   spec.name         = "QuanteecPluginAVPlayer"
-  spec.version      = "0.0.11"
+  spec.version      = "0.0.12"
   spec.summary      = "QuanteecPluginAVPlayer."
 
   spec.homepage     = "http://google.com"
